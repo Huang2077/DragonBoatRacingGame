@@ -1,6 +1,6 @@
 # Android_Dragon-Boat-Racing-Game  
 This is a mobile game based on Android platform. The game called "Dragon Boat Racing"   
-If you want play this game. Please use the "debug-apk.apk"
+If you want play this game. Please use the "app-debug.apk"
       
 The rules of the game are as follows：      
 (1) The embankment should move down continuously (vertical screen);    

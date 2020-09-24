@@ -1,6 +1,8 @@
 # Android_Dragon-Boat-Racing-Game  
-This is a mobile game based on Android platform. The game called "Dragon Boat Racing"    
-The rules of the game are as follows：    
+This is a mobile game based on Android platform. The game called "Dragon Boat Racing"   
+If you want play this game. Please use the "debug-apk.apk"
+      
+The rules of the game are as follows：      
 (1) The embankment should move down continuously (vertical screen);    
 (2) You can control the dragon boat to move left and right by touching the screen to change the direction; gestures slide to the right on the screen, the dragon boat moves to the right, gestures slide to the left on the screen, and the dragon boat moves to the left;    
 (3) Randomly set up reefs and zongzi on the river surface. 1 point will be deducted if the dragon boat encounters the reef, plus 2 points if it encounters the zongzi; if the  score of the dragon boat is less than 0, the game will fail. If the dragon boat gets more than 100 points, the game will be won End. Set the difficulty level of the game   (easy, medium, difficult) according to the number of reefs and adjacent positions. The number of reefs increases and the difficulty increases.  
@@ -12,3 +14,4 @@ The rules of the game are as follows：
   
   
 Show off：  
+main manu

@@ -14,24 +14,17 @@ The rules of the game are as follows：
   
   
 Show off：  
-![manu](https://github.com/Huang2077/Android_Dragon-Boat-Racing-Game/blob/master/main%20menu.png)manu      
-
+![manu](https://github.com/Huang2077/Android_Dragon-Boat-Racing-Game/blob/master/main%20menu.png)
   
-![simple model](https://github.com/Huang2077/Android_Dragon-Boat-Racing-Game/blob/master/simple%20mode.png)simple model    
+![simple model](https://github.com/Huang2077/Android_Dragon-Boat-Racing-Game/blob/master/simple%20mode.png)  
 
-  
-![moderate mode](https://github.com/Huang2077/Android_Dragon-Boat-Racing-Game/blob/master/moderate%20mode.png)moderate mode     
+![moderate mode](https://github.com/Huang2077/Android_Dragon-Boat-Racing-Game/blob/master/moderate%20mode.png)
 
-  
-![hard mode](https://github.com/Huang2077/Android_Dragon-Boat-Racing-Game/blob/master/hard%20mode.png)hard mode    
+![hard mode](https://github.com/Huang2077/Android_Dragon-Boat-Racing-Game/blob/master/hard%20mode.png)
  
-  
-![internet mode](https://github.com/Huang2077/Android_Dragon-Boat-Racing-Game/blob/master/internet%20model.png)internet mode    
-  
+![internet mode](https://github.com/Huang2077/Android_Dragon-Boat-Racing-Game/blob/master/internet%20model.png) 
    
-![you lose!](https://github.com/Huang2077/Android_Dragon-Boat-Racing-Game/blob/master/you%20lose!.png)you lose!      
+![you lose!](https://github.com/Huang2077/Android_Dragon-Boat-Racing-Game/blob/master/you%20lose!.png)   
    
-
-![geme help](https://github.com/Huang2077/Android_Dragon-Boat-Racing-Game/blob/master/game%20help.png)game help       
-
+![geme help](https://github.com/Huang2077/Android_Dragon-Boat-Racing-Game/blob/master/game%20help.png)     
 

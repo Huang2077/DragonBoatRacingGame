@@ -14,4 +14,24 @@ The rules of the game are as follows：
   
   
 Show off：  
-main manu
+![manu](https://github.com/Huang2077/Android_Dragon-Boat-Racing-Game/blob/master/main%20menu.png)     
+manu  
+  
+![simple model](https://github.com/Huang2077/Android_Dragon-Boat-Racing-Game/blob/master/simple%20mode.png)     
+simple model  
+  
+![moderate mode](https://github.com/Huang2077/Android_Dragon-Boat-Racing-Game/blob/master/moderate%20mode.png)     
+moderate mode  
+  
+![hard mode](https://github.com/Huang2077/Android_Dragon-Boat-Racing-Game/blob/master/hard%20mode.png)     
+hard mode  
+  
+![internet mode](https://github.com/Huang2077/Android_Dragon-Boat-Racing-Game/blob/master/internet%20model.png)     
+internet mode  
+   
+![you lose!](https://github.com/Huang2077/Android_Dragon-Boat-Racing-Game/blob/master/you%20lose!.png)     
+you lose!    
+
+![geme help](https://github.com/Huang2077/Android_Dragon-Boat-Racing-Game/blob/master/game%20help.png)     
+game help  
+

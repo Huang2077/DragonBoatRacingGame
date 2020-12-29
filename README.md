@@ -1,6 +1,10 @@
 # DragonBoatRacingGame
 # Introduction
-This is a mobile game based on Android platform. The game called "Dragon Boat Racing"     
+This is a mobile game based on Android platform. The game called "Dragon Boat Racing" 
+# Development Environment
+IntelliJ IDEA   
+Android SDK  
+JAVA  
 # How to play
 1.The player controls the dragon boat to sail on the river     
 2.Please get as many ZongZi as possible during the voyage (the number of ZongZi obtained determines the score)    
